@@ -1,3 +1,5 @@
+
+
 # data-cleaning-customer-personality
 # Data Cleaning - Customer Personality
 
@@ -8,8 +10,7 @@
 - Standardized text values (e.g., gender capitalization)
 - Converted `Dt_Customer` to datetime format
 - Renamed all column names to lowercase with underscores
-- Converted age column to integer
 
 ## 📁 Files Included:
-- `cleaned_marketing_data.csv` — cleaned dataset
-- `data_cleaning.ipynb` — code notebook (or `.py` if script)
+- `customer_personality..csv` — cleaned dataset
+- `Untitled3.ipynb` — code notebook (or `.py` if script)
